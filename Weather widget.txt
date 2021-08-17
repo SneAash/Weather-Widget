@@ -1,0 +1,177 @@
+<!-- Weather -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/weather"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/weather"
+ />
+
+
+<!-- drawable/weather.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="360dp"
+android:height="640dp"
+android:viewportWidth="360"
+android:viewportHeight="640"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H360V640H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V640H360V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+<!-- setting date -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/setting_dat"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/setting_dat"
+ />
+
+
+<!-- drawable/setting_dat.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="360dp"
+android:height="640dp"
+android:viewportWidth="360"
+android:viewportHeight="640"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H360V640H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V640H360V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+<!-- with data -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/with_data"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/with_data"
+ />
+
+
+<!-- drawable/with_data.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="360dp"
+android:height="640dp"
+android:viewportWidth="360"
+android:viewportHeight="640"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H360V640H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V640H360V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+<!-- weather today -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/weather_tod"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/weather_tod"
+ />
+
+
+<!-- drawable/weather_tod.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="360dp"
+android:height="640dp"
+android:viewportWidth="360"
+android:viewportHeight="640"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H360V640H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V640H360V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+<!-- longitude -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/longitude"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/longitude"
+ />
+
+
+<!-- drawable/longitude.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="360dp"
+android:height="640dp"
+android:viewportWidth="360"
+android:viewportHeight="640"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H360V640H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V640H360V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
